@@ -1,2 +1,0 @@
-# chaitu
-chaitu 1
